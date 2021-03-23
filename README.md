@@ -1,3 +1,5 @@
+This is a forked repository for the first semester of research. None of this code is mine, it belongs to my reseach head. For more information look to the research repository.
+
 # BatchLayout
 
 <img align="right" width="200" height="350" src="./BatchLayoutCode/batchlayoutsystem.png">
